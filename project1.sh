@@ -1,4 +1,5 @@
 #!/bin/bash
+#excerise project to work on aws
 function upload(){
 
 	bucket="s3://"
